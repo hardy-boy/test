@@ -1,6 +1,8 @@
 <?php
 
-echo "abc abc abc";
+echo "abc abc abc";echo "<hr>";
+echo "abc abc abc";echo "<hr>";
+echo "abc abc abc";echo "<hr>";
 /* 
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
